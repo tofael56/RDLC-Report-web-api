@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RdlcWebApi", "RdlcWebApi.csproj", "{5D398084-C0AF-45A9-91DC-499FB64D6EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D398084-C0AF-45A9-91DC-499FB64D6EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D398084-C0AF-45A9-91DC-499FB64D6EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D398084-C0AF-45A9-91DC-499FB64D6EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D398084-C0AF-45A9-91DC-499FB64D6EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81DEF6CF-CB9F-444E-947C-6A21060E3C4E}
+	EndGlobalSection
+EndGlobal
