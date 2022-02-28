@@ -21,8 +21,6 @@ namespace RdlcWebApi.Controllers
         [HttpGet("{reportName}/{reportType}")]
         public IActionResult Get(string reportName,string reportType)
         {
-            //var stream = new FileStream(@"path\to\file", FileMode.Open);
-            //return new FileStreamResult(stream, "application/pdf");
             var reportbytestream = _reportService.GenerateReportAsync(reportName, reportType);
             return File(reportbytestream,MediaTypeNames.Application.Octet, getReportName(reportName, reportType));
         }

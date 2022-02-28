@@ -27,11 +27,11 @@ namespace RdlcWebApi.Service
             //data
 
             List<ProductModel> productList = new List<ProductModel>();
-            var producta1 = new ProductModel { ProductCode = "001", ProductName = "Test1", ProductColor = "Red", ProductSize = "4" };
-            var producta2 = new ProductModel { ProductCode = "002", ProductName = "Test2", ProductColor = "Green", ProductSize = "5" };
-            var producta3 = new ProductModel { ProductCode = "003", ProductName = "Test3", ProductColor = "Black", ProductSize = "3" };
-            var producta4 = new ProductModel { ProductCode = "004", ProductName = "Test4", ProductColor = "White", ProductSize = "5" };
-            var producta5 = new ProductModel { ProductCode = "005", ProductName = "Test5", ProductColor = "Lemon", ProductSize = "0" };
+            var producta1 = new ProductModel { productcode = "001", ProductName = "Test1", Color = "Red",   Size = "4" };
+            var producta2 = new ProductModel { productcode = "002", ProductName = "Test2", Color = "Green", Size = "5" };
+            var producta3 = new ProductModel { productcode = "003", ProductName = "Test3", Color = "Black", Size = "3" };
+            var producta4 = new ProductModel { productcode = "004", ProductName = "Test4", Color = "White", Size = "5" };
+            var producta5 = new ProductModel { productcode = "005", ProductName = "Test5", Color = "Lemon", Size = "0" };
             
             productList.Add(producta1);
             productList.Add(producta2);

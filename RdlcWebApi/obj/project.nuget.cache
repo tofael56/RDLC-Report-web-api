@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b+JyU8unKq1Q2Z/8AsMXRDwuVC6ibO4YySwXXy7W4wX9vWki2YgS087cObUifs/zVKcgtion2W8w0UW0/33AbQ==",
+  "dgSpecHash": "r2+OeTbYD6OaB520bjML9kPdglISG2lgpJrvA6XRgBog217VVRU44XAGx/+KcpgKQLLaAHfYF/9FTjIXNsYaig==",
   "success": true,
-  "projectFilePath": "D:\\Tofael\\Tofael\\Personal\\github\\GitHub\\RdlcWebApi\\RdlcWebApi\\RdlcWebApi.csproj",
+  "projectFilePath": "D:\\Tofael\\Tofael\\Personal\\github\\GitHub\\API With rdlc report\\Program.cs\\RdlcWebApi\\RdlcWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\aspnetcore.reporting\\2.1.0\\aspnetcore.reporting.2.1.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\aspnetcore.reportingservices\\2.1.0\\aspnetcore.reportingservices.2.1.0.nupkg.sha512",

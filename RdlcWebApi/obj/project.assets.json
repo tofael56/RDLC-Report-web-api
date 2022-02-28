@@ -3203,11 +3203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tofael\\Tofael\\Personal\\github\\GitHub\\RdlcWebApi\\RdlcWebApi\\RdlcWebApi.csproj",
+      "projectUniqueName": "D:\\Tofael\\Tofael\\Personal\\github\\GitHub\\API With rdlc report\\Program.cs\\RdlcWebApi\\RdlcWebApi.csproj",
       "projectName": "RdlcWebApi",
-      "projectPath": "D:\\Tofael\\Tofael\\Personal\\github\\GitHub\\RdlcWebApi\\RdlcWebApi\\RdlcWebApi.csproj",
+      "projectPath": "D:\\Tofael\\Tofael\\Personal\\github\\GitHub\\API With rdlc report\\Program.cs\\RdlcWebApi\\RdlcWebApi.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Tofael\\Tofael\\Personal\\github\\GitHub\\RdlcWebApi\\RdlcWebApi\\obj\\",
+      "outputPath": "D:\\Tofael\\Tofael\\Personal\\github\\GitHub\\API With rdlc report\\Program.cs\\RdlcWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
